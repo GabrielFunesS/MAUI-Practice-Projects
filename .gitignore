@@ -1,0 +1,13 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/GestorDeTareas/bin/Debug/net8.0-windows10.0.19041.0/win10-x64
+/GestorDeTareas/.vs
+/GestorDeTareas/obj
+/.vs/MAUI-Practice-Projects/v17
+/.vs/VSWorkspaceState.json
+/0-EjemploMVVM/.vs
+/0-EjemploMVVM/obj
+/0-EjemploMVVM/Properties
+/GestorDeTareas/Properties
