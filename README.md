@@ -1,9 +1,6 @@
-# MAUI-Practice-Projects
-Repositorio de proyectos de práctica
+# MAUI Practice Projects
 
-# Simple .NET MAUI Projects
-
-Bienvenidos a **Simple .NET MAUI Projects**, una colección de proyectos básicos creados para ayudar a desarrolladores principiantes y experimentados a aprender y practicar .NET MAUI. Aquí encontrarás ejemplos de aplicaciones que abordan conceptos fundamentales y técnicas comunes en el desarrollo con .NET MAUI.
+Bienvenidos a **MAUI Practice Projects**, una colección de proyectos básicos creados para ayudar a desarrolladores principiantes y experimentados a aprender y practicar .NET MAUI. Aquí encontrarás ejemplos de aplicaciones que abordan conceptos fundamentales y técnicas comunes en el desarrollo con .NET MAUI.
 
 ## Proyectos Incluidos
 
@@ -46,7 +43,7 @@ Una aplicación para seguir y mantener hábitos diarios.
 
 1. **Clonar el Repositorio**:
    ```sh
-   git clone https://github.com/tu-usuario/simple-dotnet-maui-projects.git
+   git clone https://github.com/tu-usuario/maui-practice-projects.git
 2. **Abrir el Proyecto** en Visual Studio.
 3. **Seleccionar un Proyecto** en la carpeta correspondiente.
 4. **Ejecutar y Explorar:** Sigue las instrucciones en cada subcarpeta de proyecto para ejecutar la aplicación.
