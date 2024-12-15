@@ -43,7 +43,7 @@ Una aplicación para seguir y mantener hábitos diarios.
 
 1. **Clonar el Repositorio**:
    ```sh
-   git clone https://github.com/tu-usuario/maui-practice-projects.git
+   git clone https://github.com/GabrielFunesS/MAUI-Practice-Projects.git
 2. **Abrir el Proyecto** en Visual Studio.
 3. **Seleccionar un Proyecto** en la carpeta correspondiente.
 4. **Ejecutar y Explorar:** Sigue las instrucciones en cada subcarpeta de proyecto para ejecutar la aplicación.
